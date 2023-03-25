@@ -1,4 +1,4 @@
-# Rimuru-Elaina Game Project
+# Rimuru-Elaina CodeGame Project
 **Can you help Rimuru Tempest to meet with her friend, Elaina?**
 
 ![Rimuru-Elaina Logo](https://github.com/Naochatty/rimuru-elaina-project/blob/main/assets/logo.png?raw=true)
